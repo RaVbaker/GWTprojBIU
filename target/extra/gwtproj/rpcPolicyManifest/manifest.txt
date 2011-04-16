@@ -1,0 +1,3 @@
+# Module gwtproj
+# RPC service class, partial path of RPC policy file
+edu.pjwstk.biu.client.GreetingService, 181B7FDAD0A12D3C5B97BEAC995CF8A7.gwt.rpc

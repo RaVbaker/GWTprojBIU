@@ -1,0 +1,37 @@
+#surefire
+#Sat Apr 16 12:40:41 CEST 2011
+testClassesDirectory=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/target/test-classes
+classPathUrl.4=/Users/ravbaker/.m2/repository/com/google/gwt/gwt-dev/2.2.0/gwt-dev-2.2.0.jar
+completedCount=2
+classPathUrl.3=/Users/ravbaker/.m2/repository/com/google/gwt/gwt-user/2.2.0/gwt-user-2.2.0.jar
+classPathUrl.2=/Users/ravbaker/.m2/repository/com/google/gwt/gwt-servlet/2.2.0/gwt-servlet-2.2.0.jar
+failures=0
+classPathUrl.1=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/target/www/WEB-INF/classes
+useManifestOnlyJar=false
+reportsDirectory=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/target/surefire-reports
+classPathUrl.0=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/target/test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/src/test/java
+surefireClassPathUrl.1=/Users/ravbaker/.m2/repository/org/apache/maven/surefire/surefire-api/2.7.1/surefire-api-2.7.1.jar
+surefireClassPathUrl.0=/Users/ravbaker/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.7.1/surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+errors=0
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+excludes0=**/*$*
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+isTrimStackTrace=true
+dirscanner.0.params=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/target/test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+forkTestSet=java.lang.Class|edu.pjwstk.biu.client.GWTprojTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+skipped=0
+classPathUrl.7=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/src/test/java
+classPathUrl.6=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj/src/main/java
+childDelegation=false
+classPathUrl.5=/Users/ravbaker/.m2/repository/junit/junit/4.4/junit-4.4.jar

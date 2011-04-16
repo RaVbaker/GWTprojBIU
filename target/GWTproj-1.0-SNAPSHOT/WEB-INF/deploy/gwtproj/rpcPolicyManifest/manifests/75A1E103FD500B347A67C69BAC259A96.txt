@@ -1,0 +1,2 @@
+serviceClass: edu.pjwstk.biu.client.GreetingService
+path: 181B7FDAD0A12D3C5B97BEAC995CF8A7.gwt.rpc

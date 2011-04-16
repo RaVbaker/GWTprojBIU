@@ -1,0 +1,6 @@
+#surefire
+#Sat Apr 16 12:40:10 CEST 2011
+gwt.args=-out target/www
+user.dir=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj
+localRepository=/Users/ravbaker/.m2/repository
+basedir=/Users/ravbaker/Documents/studia-pjwstk/zajecia/BUI/GWTproj
